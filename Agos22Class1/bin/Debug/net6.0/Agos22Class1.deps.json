@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Agos22Class1/1.0.0": {
+        "runtime": {
+          "Agos22Class1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Agos22Class1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
